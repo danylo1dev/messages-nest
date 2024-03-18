@@ -6,7 +6,7 @@ This app is really simple. It just utilizes local storage for storing simple mes
 
 I delved deeply into Dependency Injection (DI) and significantly improved my understanding and skills.
 
-# Instaling
+# Installing
 
 ## Prerequisites
 
